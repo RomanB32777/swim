@@ -1,0 +1,11 @@
+/*.php
+/*.txt
+/.htaccess*
+/readme.html
+/favicon.ico
+dup-installer/
+wp-admin/
+wp-snapshots/
+wp-includes/
+wp-content/*/*
+!wp-content/themes/swimming
